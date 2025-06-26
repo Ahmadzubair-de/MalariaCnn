@@ -1,4 +1,5 @@
 import torch
+import torchversion as tv
 """
 Importiert PyTorch, die Framework-Bibliothek für Deep Learning. 
 Wichtig, weil wir das Modell laden, Eingabedaten verarbeiten und Berechnungen durchführen.
