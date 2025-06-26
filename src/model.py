@@ -1,4 +1,5 @@
-import torch.nn as nn  # 🔧 Importiert das Modul für neuronale Netzwerke von PyTorch
+import torch.nn as nn
+import matplotlib.pyplot as plt 
 
 # 🦠 Definiert das Modell für die Erkennung von Malariazellen
 class MalariaModel(nn.Module):  # 👷 Erbt von nn.Module, weil alle PyTorch-Modelle davon ableiten müssen
