@@ -20,6 +20,7 @@ Wichtig, weil wir das Bild zum Modell schicken müssen.
 """
 
 import matplotlib.pyplot as plt
+import seaborn as sb
 """
 Matplotlib ist das Standard-Tool für Visualisierungen in Python.
 Wir zeigen später Bilder, Ergebnisse und Vorhersagen damit an.
