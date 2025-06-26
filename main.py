@@ -13,3 +13,4 @@ elif args.predict:
     predict.predict(args.predict)
 else:
     print("Bitte Option angeben: --train oder --predict <bildpfad>")
+    print('KEINE CAPS')
